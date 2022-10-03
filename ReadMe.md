@@ -20,7 +20,7 @@ Last updated 24/9/2022
 * ANFs DO respond to ping / tracert requests.
 
 # Azure Private Endpoint 
-* (2/10/22) UDP and ICMP appear to be supported as per https://learn.microsoft.com/en-us/answers/questions/379875/private-endpoint-has-listening-restrictions.html (awaiting reply from git hub document update on Private Endpoint FAQ)
+* (2/10/22) UDP and ICMP not supported as per https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview#limitations
 
 # Azure Resource Graph 
 * When managing Azure Firewall Policy --> Rule Collection Groups -> Rule Collections --> Rules , Rule Collection Groups dont appear to be available in Resource Graph (23/9/2022 - Case open with Microsoft)
